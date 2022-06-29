@@ -26,4 +26,3 @@ F1_score =  0.5158883333206177
           
 # Notes
 Ellaine : run model 5
-Jess : run model 6
