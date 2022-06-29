@@ -11,9 +11,18 @@ AUC =  0.8355503082275391
 
 F1_score =  0.4167236387729645
   
-  
-# Notes
-Ellaine : aku lagi nge run model 5 //ak coba 3 ram ga cukup
-          
 
+# Model 6:
+Accuracy =  0.7998436093330383
+
+Precision =  0.6501767039299011
+
+Recall =  0.43158718943595886
+
+AUC =  0.8434739112854004
+
+F1_score =  0.5158883333206177
+
+          
+# Notes
 Jess : run model 6
