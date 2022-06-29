@@ -1,3 +1,3 @@
 # CNN
 
-Ellaine : aku lagi nge run model 3
+Ellaine : aku lagi nge run model 3 & 4
